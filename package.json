@@ -1,0 +1,9 @@
+{
+  "name": "planter",
+  "version": "0.0.0",
+  "description": "This is a project for creating an automated water planter using a Raspberry Pi",
+  "main": "index.js",
+  "scripts": {},
+  "author": "Zach Anderson",
+  "license": "MIT"
+}
